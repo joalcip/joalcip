@@ -34,6 +34,46 @@ Let’s do this.
 
 ## The Destination: What would democratic AI look like in 2030?
 
+We expect the world will look quite different in 2030. But here are three pillars
+we think are necessary for democratic AI, and provide especially fertile
+opportunities for experimentation, advocacy, and research.
+
+This list is by no means exhaustive. Instead, in the spirit of democratic
+collaboration, we thought it was important to have a point of view and stake
+out a perspective where others may disagree.
+
+1. Our capacity for collective intelligence begins to keep pace with
+progress in artificial intelligence. We use AI to improve our systems
+for deliberation, translation, facilitation, and preference elicitation; We
+expand this to improve interactions within and between institutions, as
+well as between institutions and individuals.
+Impact: We’ll be much better at understanding and actualizing
+collective preferences.
+
+3. Important AI systems are governed by feedback loops of collective
+input. We have built the infrastructure to inclusively gather, parse, and
+incorporate public input on complex questions surrounding AI. This
+includes responsively building AI systems to target real community
+needs, and enabling responsive opt-out of AI systems.
+Impact: Collective preferences directly inform any high-impact
+systems.
+
+5. High-impact sites of AI development are (re)structured to optimize
+for the collective interest. The core material inputs to AI (data and
+compute) are governed non-monopolistically. Sites of development
+and deployment, whether open source movements, corporations,
+startups, or government agencies, are subject to checks and balances
+to mitigate against power centralization.
+Impact: We’re not just gathering collective input, we’ve shifted
+incentives and built institutional capacity to actually compel
+action based on the public interest.
+
+We also want there to be a variety of models that all sorts of people can use
+safely, opt-out guarantees for users, and strong data protection rules — not to
+mention many positive use-cases for AI. But these three achievements would
+massively change the political economy of AI, and they form a foundation for
+our vision.
+
 <a name="priorities-2024"> </a>
 ## The Journey: What are our priorities for 2024
 

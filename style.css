@@ -10,6 +10,8 @@
   padding-inline-start: 10ch;
 }
 
-.li {
-  padding-inline-start: 1ch;
+
+.custom-list {
+  list-style-type: circle;
+  color: blue;
 }

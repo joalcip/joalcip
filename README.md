@@ -124,7 +124,7 @@ need to experiment with new development and funding models.
 What can I do if I work in…
 
 AI Research
-<ol style="list-style-type: square;">
+
 <li> Build participation technology. Create AI-enabled collective
 intelligence tools and processes for better collective decision-making,
 including translation, moderation, facilitation, and preference
@@ -216,7 +216,7 @@ technical expertise (see section 4).</li>
 <li> Support experimentation with alternative governance
 infrastructures, bringing in learnings from open source governance.
 (see section 6) </li>
-</ol>
+
 
 <!--
 **joalcip/joalcip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

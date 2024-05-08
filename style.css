@@ -3,7 +3,7 @@
 }
 
 .toc-list {
-  padding: 0;
+  padding: 2ch;
 }
 
 .toc-list ol {
@@ -11,7 +11,3 @@
 }
 
 
-.custom-list {
-  list-style-type: circle;
-  color: blue;
-}

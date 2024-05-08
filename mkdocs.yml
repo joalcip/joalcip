@@ -1,0 +1,17 @@
+site_name: Roamdmap for Democratic AI
+repo_url: https://github.com/cip/roadmap
+repo_name: cip/roadmap
+markdown_extensions:
+    - markdown_include.include:
+        base_path: .
+theme:
+  name: material
+  icon:
+    logo: material/dots-circle
+  features:
+    - toc.integrate
+nav:
+  - Main: 'index.md'
+  - 'List of defunct coops': 'DEFUNCT.md'
+extra_css:
+  - stylesheets/extra.css

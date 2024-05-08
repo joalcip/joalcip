@@ -9,3 +9,7 @@
 .toc-list ol {
   padding-inline-start: 2ch;
 }
+
+.li {
+  padding-inline-start: 1ch;
+}

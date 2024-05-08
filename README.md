@@ -11,11 +11,9 @@ We’re still early, but that doesn’t mean we have much time. If you share thi
 Let’s do this.
 
 
-<!-- MKDOCS IGNORE -->
-
 ## Table of Contents
 
-[The Destination: What would democratic AI look like in 2030?](#destination)
+1. [The Destination: What would democratic AI look like in 2030?](#destination)
 [The Journey: What are our priorities for 2024?](#priorities-2024)
 [Roadmap Guide: What can I do if I work in…?](#roadmap-guide)
 [The Roadmap](#roadmap)
@@ -25,13 +23,13 @@ Let’s do this.
 [2. Introduce collective input into more points within the AI lifecycle](#collective-input)
 [3. Connect the open source and democracy communities](#open-source-democracy)
 [4. Expand public input processes geographically](#public-input)
-[5. Build AI-enabled tools for democratic governance](#ai-tools]
+[5. Build AI-enabled tools for democratic governance](#ai-tools)
 [6. Experiment with institutional governance models](#institutional)
 [Conclusion](#conclusion)
 Authors and Acknowledgements 
 Appendix
 
-<!-- MKDOCS IGNORE -->
+
 
 <a name="destination"> </a>
 

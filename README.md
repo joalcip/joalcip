@@ -124,6 +124,7 @@ need to experiment with new development and funding models.
 What can I do if I work in…
 
 AI Research
+<ol style="list-style-type: square;">
 <li> Build participation technology. Create AI-enabled collective
 intelligence tools and processes for better collective decision-making,
 including translation, moderation, facilitation, and preference
@@ -146,10 +147,10 @@ innovation, open source development, etc.) and geographies to apply
 these ideas in practice.</li>
 
 AI Development
-<li> Amplify internal teams already doing research on democratic AI
+* Amplify internal teams already doing research on democratic AI
 research. Our Collective Constitutional AI (CCAI) project with
 Anthropic and DeepMind’s Habermas Machine are examples. Build
-internal leaderboards around success and breadth of public input.</li>
+internal leaderboards around success and breadth of public input.
 <li> Build out access to technology for developing AI-enabled collective
 intelligence tools and processes. The future is wild, and we need to
 give people access to the best possible tools to improve our ability to
@@ -215,7 +216,7 @@ technical expertise (see section 4).</li>
 <li> Support experimentation with alternative governance
 infrastructures, bringing in learnings from open source governance.
 (see section 6) </li>
-
+</ol>
 
 <!--
 **joalcip/joalcip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@ Let’s do this.
 
 ## Table of Contents
 
-<li> [The Destination: What would democratic AI look like in 2030?] (#destination)</li>
+1. [The Destination: What would democratic AI look like in 2030?] (#destination)
 [The Journey: What are our priorities for 2024?] (#priorities-2024)
 [Roadmap Guide: What can I do if I work in…?] (#roadmap-guide)
 [The Roadmap] (#roadmap)
@@ -31,9 +31,11 @@ Let’s do this.
 Authors and Acknowledgements 
 Appendix 
 
-##The Destination: What would democratic AI look like in 2030?
-<a name="destination"></a>
+## The Destination: What would democratic AI look like in 2030?
 
+<a name="destination"> </a>
+
+<!-- MKDOCS IGNORE -->
 
 
 

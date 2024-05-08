@@ -138,83 +138,83 @@ preferences and training models. (see section 1) </li>
 
 <li> Lead on collective governance of training data and improve the
 data supply chain, including opt-out and transparency processes,
-self-determination for data laborers, etc.
+self-determination for data laborers, etc.</li>
     
 <li> Work with diverse audiences and communities to co-create
 models. Engage people from different domain areas (democratic
 innovation, open source development, etc.) and geographies to apply
-these ideas in practice.
+these ideas in practice.</li>
 
 AI Development
 <li> Amplify internal teams already doing research on democratic AI
 research. Our Collective Constitutional AI (CCAI) project with
 Anthropic and DeepMind’s Habermas Machine are examples. Build
-internal leaderboards around success and breadth of public input.
+internal leaderboards around success and breadth of public input.</li>
 <li> Build out access to technology for developing AI-enabled collective
 intelligence tools and processes. The future is wild, and we need to
 give people access to the best possible tools to improve our ability to
-coordinate. (see section 5)
+coordinate. (see section 5)</li>
 <li> Develop practical principles for embedding public input into
 internal organizational decision-making in a meaningful way. (see
-section 2)
+section 2)</li>
 <li> Explore collective input options for post-deployment monitoring
 and feedback. This includes community oversight committees or
-councils. (see section 2, especially ‘Post-Deployment’)
+councils. (see section 2, especially ‘Post-Deployment’)</li>
 <li> Fund research into these topics. OpenAI’s ‘Democratic Inputs to AI’
-grant scheme is one possible template for future work.
+grant scheme is one possible template for future work.</li>
 <li>Include public inputs into internal evaluations and audits. One
 example is our work with OpenAI (see section 2, especially
-'Deployment’ and ‘Post-Deployment’)
+'Deployment’ and ‘Post-Deployment’)</li>
 <li> Look at alternative governance mechanisms within your organization
-and supply chains. (see section 6)
+and supply chains. (see section 6)</li>
 
 Policy, Public Investment, and Regulation
-● Harness collective intelligence systems to assist with monitoring
+<li> Harness collective intelligence systems to assist with monitoring
 and evaluation. This is especially true for socio-technical evaluations,
 societal ‘red-lines’, and monitoring societal impacts. (see section 2,
-especially ‘Post-Deployment’)
-● Develop more robust mechanisms to engage the public when
+especially ‘Post-Deployment’)</li>
+<li> Develop more robust mechanisms to engage the public when
 creating standards and regulations. This could enhance problem
-identification, solution ideation, and generate broader public buy-in.
-(see section 2)
-● Invest in public AI infrastructure. Building expertise and resources
+identification, solution ideation, and generate broader public buy-in.</li>
+(see section 2)</li>
+<li> Invest in public AI infrastructure. Building expertise and resources
 outside of labs is crucial to ensuring broad public accountability;
 investing in applications of AI for the public good requires public sector
 AI infrastructure. This should include citizen and stakeholder
 engagement from the start, including in the allocation of resources
 (compute, data, etc.) and in public sector generative AI rollout
-decisions. (see section 2 and section 6)
+decisions. (see section 2 and section 6)</li>
 
 Civil Society
-● Develop and establish new models for data governance. This
+<li>Develop and establish new models for data governance. This
 includes ideas like data sovereignty experiments or data cooperatives.
-(see sections section 2, especially ‘Development’, and section 6)
-● Support Alignment Assemblies internationally. (see section 4)
-● Publish a leaderboard that assesses how well AI companies
+(see sections section 2, especially ‘Development’, and section 6)</li>
+<li> Support Alignment Assemblies internationally. (see section 4)</li>
+<li> Publish a leaderboard that assesses how well AI companies
 incorporate the public interest, to support the directing of public
-contracts and broader support.
-● Support more equitable forms of data labor for creating, labeling, and
-cleaning data. (see section 2 and section 6)
-● Shift the political economy of AI development from the bottom-up.
+contracts and broader support.</li>
+<li> Support more equitable forms of data labor for creating, labeling, and
+cleaning data. (see section 2 and section 6)</li>
+<li> Shift the political economy of AI development from the bottom-up.
 Explore economic models for public interest approaches to
 development, deployment, post-deployment, and funding e.g.
-cooperatives, crowd-funding, and more. (see section 6)
+cooperatives, crowd-funding, and more. (see section 6)</li>
 
 Open-Source
-● Actively connect with the democratic innovation space to create
+<li> Actively connect with the democratic innovation space to create
 shared expertise, recognizing that the democratization of access
 without governance rights is not enough to ensure the public interest.
-(see section 3)
-● Build AI-enabled tools for collective intelligence. (see section 5)
-● Explore collective fine-tuning on open source generative models.
-(see section 1)
-● Explore alternative public input mechanisms to open source models.
-(see section 2, especially ‘Development’,)
-● Support Alignment Assemblies internationally. We especially need
-technical expertise (see section 4).
-● Support experimentation with alternative governance
+(see section 3)</li>
+<li> Build AI-enabled tools for collective intelligence. (see section 5)</li>
+<li> Explore collective fine-tuning on open source generative models.
+(see section 1)</li>
+<li> Explore alternative public input mechanisms to open source models.
+(see section 2, especially ‘Development’,)</li>
+<li> Support Alignment Assemblies internationally. We especially need
+technical expertise (see section 4).</li>
+<li> Support experimentation with alternative governance
 infrastructures, bringing in learnings from open source governance.
-(see section 6)
+(see section 6) </li>
 
 
 <!--

@@ -13,19 +13,19 @@ Let’s do this.
 
 ## Table of Contents
 
-[The Destination: What would democratic AI look like in 2030?](#destination)
-[The Journey: What are our priorities for 2024?](#priorities-2024)
-[Roadmap Guide: What can I do if I work in…?](#roadmap-guide)
-[The Roadmap](#roadmap)
-[Our Starting Point: What did we do last year?](#starting-point)
-[Future Directions](#future-directions)
-[1. Advance the collective fine-tuning of generative models](#fine-tuning)
-[2. Introduce collective input into more points within the AI lifecycle](#collective-input)
-[3. Connect the open source and democracy communities](#open-source-democracy)
-[4. Expand public input processes geographically](#public-input)
-[5. Build AI-enabled tools for democratic governance](#ai-tools)
-[6. Experiment with institutional governance models](#institutional)
-[Conclusion](#conclusion)
+1. [The Destination: What would democratic AI look like in 2030?](#destination)
+2. [The Journey: What are our priorities for 2024?](#priorities-2024)
+3. [Roadmap Guide: What can I do if I work in…?](#roadmap-guide)
+4. [The Roadmap](#roadmap)
+5. [Our Starting Point: What did we do last year?](#starting-point)
+6. [Future Directions](#future-directions)
+    1. [Advance the collective fine-tuning of generative models](#fine-tuning)
+    2. [Introduce collective input into more points within the AI lifecycle](#collective-input)
+    3. [Connect the open source and democracy communities](#open-source-democracy)
+    4. [Expand public input processes geographically](#public-input)
+    5. [Build AI-enabled tools for democratic governance](#ai-tools)
+    6. [Experiment with institutional governance models](#institutional)
+7.[Conclusion](#conclusion)
 Authors and Acknowledgements 
 Appendix
 

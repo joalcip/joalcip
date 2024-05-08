@@ -10,6 +10,28 @@ We’re still early, but that doesn’t mean we have much time. If you share thi
 
 Let’s do this.
 
+[The Destination: What would democratic AI look like in 2030?] (#destination)
+[The Journey: What are our priorities for 2024?] (#priorities-2024)
+[Roadmap Guide: What can I do if I work in…?] (#roadmap-guide)
+[The Roadmap] (#roadmap)
+[Our Starting Point: What did we do last year?] (#starting-point)
+[Future Directions] (#future-directions)
+[1. Advance the collective fine-tuning of generative models] (#fine-tuning)
+[2. Introduce collective input into more points within the AI lifecycle] (#collective-input)
+[3. Connect the open source and democracy communities] (#open-source-democracy)
+[4. Expand public input processes geographically] (#public-input)
+[5. Build AI-enabled tools for democratic governance] (#ai-tools]
+[6. Experiment with institutional governance models] (#institutional)
+[Conclusion] (#conclusion)
+Authors and Acknowledgements 
+Appendix 
+
+##The Destination: What would democratic AI look like in 2030?
+<a name="destination"></a>
+
+
+
+
 <!--
 **joalcip/joalcip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

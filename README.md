@@ -13,7 +13,7 @@ Let’s do this.
 
 ## Table of Contents
 
-1. [The Destination: What would democratic AI look like in 2030?](#destination)
+[The Destination: What would democratic AI look like in 2030?](#destination)
 [The Journey: What are our priorities for 2024?](#priorities-2024)
 [Roadmap Guide: What can I do if I work in…?](#roadmap-guide)
 [The Roadmap](#roadmap)
@@ -35,7 +35,8 @@ Appendix
 
 ## The Destination: What would democratic AI look like in 2030?
 
-
+<a name="priorities-2024"> </a>
+## The Journey: What are our priorities for 2024
 
 
 

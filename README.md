@@ -25,9 +25,8 @@ Let’s do this.
     4. [Expand public input processes geographically](#public-input)
     5. [Build AI-enabled tools for democratic governance](#ai-tools)
     6. [Experiment with institutional governance models](#institutional)
-7.[Conclusion](#conclusion)
-Authors and Acknowledgements 
-Appendix
+7. [Conclusion](#conclusion)
+
 
 
 

@@ -10,7 +10,7 @@ We’re still early, but that doesn’t mean we have much time. If you share thi
 
 Let’s do this.
 
-[The Destination: What would democratic AI look like in 2030?] (#destination)
+<li> [The Destination: What would democratic AI look like in 2030?] (#destination)</li>
 [The Journey: What are our priorities for 2024?] (#priorities-2024)
 [Roadmap Guide: What can I do if I work in…?] (#roadmap-guide)
 [The Roadmap] (#roadmap)
